@@ -1,3 +1,5 @@
+![image](https://cdn.thenewstack.io/media/2025/06/c0913625-cockpit.jpg)
+
 ## Cockpit
 
 [Cockpit](https://cockpit-project.org/) is a web-based graphical interface for servers, intended for everyone, especially those who are:
